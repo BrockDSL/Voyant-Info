@@ -11,7 +11,12 @@ This however is just the tip of the iceberg when it comes to the uses of Voyant.
 
 If we take two texts such as [The Invisible Man][invisible_man] and [The Time Machine][time_machine] by H.G.Wells and input them as our corpus then Voyant will break both down and give us stats based on both in relation to each other.  
 
-![ComparisonChart](Frequency_chart.png)
+Here we have a chart comparing the frequency of the five most common words from these two texts.
+![Frequency-Chart](Frequency_chart.png)
+
+Voyant allows for manipulation of what variables are compared as well so that  words like "said" in the chart above can be cut for more interesting and relevant words.  Below we have the same chart but the word "said" has been replaced with another common word.
+
+![Frequency-Chart-2](Frequency_chart_altered.png)
 
 
 
