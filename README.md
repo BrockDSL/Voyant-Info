@@ -9,6 +9,9 @@ Below you can see a Cirrus of the most used words in [The Giver][giver].  This c
 
 This however is just the tip of the iceberg when it comes to the uses of Voyant.  Its real power comes when two or more texts are entered into the corpus.
 
+If we take two texts such as [The Invisible Man][invisible_man] and [The Time Machine][time_machine] by H.G.Wells and input them as our corpus then Voyant will break both down and give us stats based on both in relation to each other.  
+
+![ComparisonChart](invisible_and_time_frequency.png)
 
 
 
@@ -16,6 +19,6 @@ This however is just the tip of the iceberg when it comes to the uses of Voyant.
 
 
 
-
-
+[time_machine]: time_machine_text.txt "The Time Machine"
+[invisible_man]: invisible_man_text.txt "The Invisible Man"
 [giver]: thegiver.pdf "The Giver"
