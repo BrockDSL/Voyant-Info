@@ -11,7 +11,7 @@ This however is just the tip of the iceberg when it comes to the uses of Voyant.
 
 If we take two texts such as [The Invisible Man][invisible_man] and [The Time Machine][time_machine] by H.G.Wells and input them as our corpus then Voyant will break both down and give us stats based on both in relation to each other.  
 
-![ComparisonChart](invisible_and_time_frequency.png)
+![ComparisonChart](Frequency_chart.png)
 
 
 
