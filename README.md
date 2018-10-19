@@ -18,7 +18,9 @@ Voyant allows for manipulation of what variables are compared as well so that  w
 
 ![Frequency-Chart-2](Frequency_chart_altered.png)
 
+The same data can be displayed in different forms as well so that different perspectives might give more insight into the relation between the texts.
 
+![Frequency-Chart-3](Frequency_chart_bar.png)
 
 
 
