@@ -23,6 +23,8 @@ The same data can be displayed in different forms as well so that different pers
 ![Frequency-Chart-3](Frequency_chart_bar.png)
 
 
+These are of course just a few uses of Voyant.  This tool can also be used in art, advertising, and any other way you can think of!
+
 
 
 
