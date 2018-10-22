@@ -1,9 +1,9 @@
 # Voyant as a tool
 
 ##### Voyant is a web-based reading and analysis environment for digital texts.  
-This tool can deconstruct and visualize text data from one or more sources allowing you to better understand the content and connections within the data.  For example if you were to take the book [The Giver][giver] and run it through Voayant you would get helpful deconstructions of that text.  
+This tool can deconstruct and visualize text data from one or more sources allowing you to better understand the content and connections within the data.  For example if you were to take the book [Pride and Prejudice][pride] and run it through Voayant you would get helpful deconstructions of that text.  
 
-Below you can see a Cirrus of the most used words in [The Giver][giver].  This can help you discover themes in the text.
+Below you can see a Cirrus of the most used words in [Pride and Prejudice][pride].  This can help you discover themes in the text.
 
 ![Giver Cirrus](Giver-Cirrus2.png)
 
@@ -28,4 +28,4 @@ The same data can be displayed in different forms as well so that different pers
 
 [time_machine]: time_machine_text.txt "The Time Machine"
 [invisible_man]: invisible_man_text.txt "The Invisible Man"
-[giver]: thegiver.pdf "The Giver"
+[pride]: pride_and_prejudice.txt "Pride and Prejudice"
