@@ -5,7 +5,7 @@ This tool can deconstruct and visualize text data from one or more sources allow
 
 Below you can see a Cirrus of the most used words in [Pride and Prejudice][pride].  This can help you discover themes in the text.
 
-![Giver Cirrus](Giver-Cirrus2.png)
+![Pride and Prejudice Cirrus](pride_cirrus.png)
 
 This however is just the tip of the iceberg when it comes to the uses of Voyant.  Its real power comes when two or more texts are entered into the corpus.
 
