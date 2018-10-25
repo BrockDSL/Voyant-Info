@@ -1,3 +1,6 @@
+![BrockDSL][dsl_logo.png]
+
+
 # Voyant as a tool
 
 ##### Voyant is a web-based reading and analysis environment for digital texts.  
