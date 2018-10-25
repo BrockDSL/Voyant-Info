@@ -1,4 +1,5 @@
-![BrockDSL][dsl_logo.png]
+![BrockDSL](dsl_logo.png) 
+[@brock_dsl](https://twitter.com/brock_dsl)
 
 
 # Voyant as a tool
